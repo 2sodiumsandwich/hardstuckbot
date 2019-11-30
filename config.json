@@ -1,0 +1,34 @@
+{
+    "riotKey":"",
+    "botKey":"",
+    "prefix": ";;",
+    "shame": {
+        "poor": [
+            "Yikes...",
+            "Yep, definitely your team holding you back",
+            "Maybe try winning?",
+            "I've seen worse. I think.",
+            "Try beginner bots :)",
+            "Something reeks in here. oh. it's you.",
+            "I think you'll win more if you turned on your monitor.",
+            "Jungle difference. right.",
+            "*Definitely* Riot's fault you're hardstuck...",
+            "Heh. Ok that made me chuckle a bit."
+        ],
+        "average": [
+            "Meh.",
+            "Nothing extraordinary.",
+            "Better than that Mylon Masterful guy at least",
+            "Normie.",
+            "I've never seen a more... mediocre player"
+        ],
+        "good": [
+            "Decent.",
+            "Meta abuser huh",
+            "So how much are you paying?",
+            "Congratulations. you are adept at beating up orphans.",
+            "A few more years and you'll catch up to my grandma.",
+            "Now if only you were this useful to society"
+        ]
+    }
+}
